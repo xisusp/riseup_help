@@ -2,15 +2,15 @@
 @title = 'Riseup VPN'
 @toc = false
 
-p(alert alert-warning). We are launching a new VPN, the first step on our next generation anti-surveillance services. These new security enhanced systems are hosted on https://black.riseup.net and are not linked to the current riseup's infrastructure. This means you will need to create a different account there. Don't worry, all of our current usernames are 'reserved' and cannot be used on Black and you will be able to use your current username or the new one (if you want) later this year.
+p(alert alert-warning). Nós estamos lançando um novo VPN, o primeiro passo na nossa próxima geração de serviços anti-vigilância. Esses novos e melhorados sistemas de segurança estão hospedados em https://black.riseup.net e não estão linkados com a atual infraestrutura do riseup. Isso significa que voce precisará criar uma conta diferente lá. Não se preocupe, todos os nossos atuais nomes de usuários estão 'reservados' e não podem ser usados no Black e voce conseguirá usar seu atual usuário ou o novo (ser voces quiser) ao longo deste ano.
 
-h2. Quick links!
+h2. Links rápidos!
 
 * Black: "black.riseup.net":https://black.riseup.net
-* Linux user? [[Install instructions -> linux]]
-* Android user? [[Install instructions -> android]]
-* Something not working? check [[Troubleshooting]]
-* Have a question? check our [[FAQs -> faq]]
+* Usuário Linux user? [[Instruções de instalação -> linux]]
+* Usuário Android user? [[Instruções de instalação -> android]]
+* Algo não funcionando? confira [[Solução de Problemas -> troubleshooting]]
+* Tem uma dúvida? confira nossas [[FAQs -> faq]]
 
 h2. What is the RiseupVPN?
 
